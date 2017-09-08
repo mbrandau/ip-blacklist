@@ -1,4 +1,4 @@
-# ip-blacklist [![Build Status](https://travis-ci.org/mbrandau/ip-blacklist.svg?branch=master)](https://travis-ci.org/mbrandau/ip-blacklist) [![npm](https://img.shields.io/npm/v/ip-blacklist.svg)](https://www.npmjs.com/package/ip-blacklist) [![npm](https://img.shields.io/npm/dt/ip-blacklist.svg)](https://www.npmjs.com/package/ip-blacklist) [![GitHub issues](https://img.shields.io/github/issues/mbrandau/ip-blacklist.svg)](https://github.com/mbrandau/ip-blacklist/issues)
+# ip-blacklist [![Build Status](https://travis-ci.org/mbrandau/ip-blacklist.svg?branch=master)](https://travis-ci.org/mbrandau/ip-blacklist) [![David](https://img.shields.io/david/mbrandau/ip-blacklist.svg)]() [![npm](https://img.shields.io/npm/v/ip-blacklist.svg)](https://www.npmjs.com/package/ip-blacklist) [![npm](https://img.shields.io/npm/dt/ip-blacklist.svg)](https://www.npmjs.com/package/ip-blacklist) [![GitHub issues](https://img.shields.io/github/issues/mbrandau/ip-blacklist.svg)](https://github.com/mbrandau/ip-blacklist/issues)
 Basic middleware for blacklisting ip addresses
 
 ## Usage
