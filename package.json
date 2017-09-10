@@ -24,6 +24,7 @@
   "homepage": "https://github.com/mbrandau/ip-blacklist#readme",
   "devDependencies": {
     "coveralls": "^2.13.1",
+    "expect.js": "^0.3.1",
     "mocha": "^3.5.0",
     "nyc": "^11.2.1"
   },
