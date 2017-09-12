@@ -4,6 +4,8 @@
 
 Basic middleware for blacklisting ip addresses
 
+Looking for an ip-whitelist? Check out the pendant to this package at [npm](https://www.npmjs.com/package/ip-whitelist) or [GitHub](https://github.com/mbrandau/ip-whitelist)
+
 ## Usage
 
 Install and save the package to your project `npm i --save ip-blacklist`
