@@ -1,7 +1,7 @@
 {
   "name": "ip-blacklist",
   "version": "1.0.2",
-  "description": "Basic middleware for whitelisting ip addresses Edit",
+  "description": "Basic middleware for whitelisting ip addresses",
   "main": "index.js",
   "scripts": {
     "test": "nyc --reporter=html --reporter=text mocha",
