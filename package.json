@@ -28,7 +28,7 @@
     "expect.js": "0.3.1",
     "mocha": "3.5.3",
     "nyc": "11.9.0",
-    "prettier": "1.14.3"
+    "prettier": "1.18.2"
   },
   "dependencies": {
     "ipaddr.js": "^1.8.1"
