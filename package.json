@@ -26,7 +26,7 @@
   "devDependencies": {
     "coveralls": "3.0.6",
     "expect.js": "0.3.1",
-    "mocha": "3.5.3",
+    "mocha": "4.0.0",
     "nyc": "14.1.1",
     "prettier": "1.18.2"
   },
